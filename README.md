@@ -1,3 +1,5 @@
+Written by Marcelo Boareto (marceloboareto at gmail.com)
+
 ### Source code of the analysis of the following manuscript:
 
 #### Jagged–Delta asymmetry in Notch signaling can give rise to a Sender/Receiver hybrid phenotype (2015) Marcelo Boareto, Mohit Kumar Jolly, Mingyang Lu, José N. Onuchic, Cecilia Clementi, and Eshel Ben-Jacob. PNAS doi:10.1073/pnas.1416287112
@@ -19,5 +21,3 @@ Robustness: http://nbviewer.ipython.org/github/mboareto/BoaretoEtAl2015PNAS/blob
 
 Stochastic: http://nbviewer.ipython.org/github/mboareto/BoaretoEtAl2015PNAS/blob/master/modelNDJF_Gilliespie.ipynb
 
-
-If you have any questions please contact me: marceloboareto at gmail.com
