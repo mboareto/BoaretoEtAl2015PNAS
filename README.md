@@ -18,3 +18,6 @@ Robustness: http://nbviewer.ipython.org/github/mboareto/BoaretoEtAl2015PNAS/blob
 1D patterning: http://nbviewer.ipython.org/github/mboareto/BoaretoEtAl2015PNAS/blob/master/modelNDJF_1Dpattern.ipynb
 
 Stochastic: http://nbviewer.ipython.org/github/mboareto/BoaretoEtAl2015PNAS/blob/master/modelNDJF_Gilliespie.ipynb
+
+
+If you have any questions please contact me: marceloboareto at gmail.com
