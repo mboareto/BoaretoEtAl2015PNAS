@@ -14,3 +14,9 @@ N-D: http://nbviewer.ipython.org/github/mboareto/BoaretoEtAl2015PNAS/blob/master
 N-D-J: http://nbviewer.ipython.org/github/mboareto/BoaretoEtAl2015PNAS/blob/master/modelNDJ.ipynb 
 
 N-D-J-F: http://nbviewer.ipython.org/github/mboareto/BoaretoEtAl2015PNAS/blob/master/modelNDJF.ipynb 
+
+Robustness: http://nbviewer.ipython.org/github/mboareto/BoaretoEtAl2015PNAS/blob/master/Robustness_Dimensionless.ipynb
+
+1D patterning: http://nbviewer.ipython.org/github/mboareto/BoaretoEtAl2015PNAS/blob/master/modelNDJF_1Dpattern.ipynb
+
+Stochastic: http://nbviewer.ipython.org/github/mboareto/BoaretoEtAl2015PNAS/blob/master/modelNDJF_Gilliespie.ipynb
